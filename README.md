@@ -26,10 +26,6 @@ python train_disease.py          # train CNN (needs PlantVillage dataset)
 python train_yield.py            # train Random Forest (needs crop_yield.csv)
 streamlit run app.py
 ```
-
-## Live Demo
-[Add Streamlit Cloud link here]
-
 ## Methodology
 
 **Disease Detection** — MobileNetV2 pretrained on ImageNet, fine-tuned on 

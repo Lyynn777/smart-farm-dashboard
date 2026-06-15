@@ -1,0 +1,5 @@
+venv/
+data/
+model/yield_model.pkl
+__pycache__/
+*.pyc
